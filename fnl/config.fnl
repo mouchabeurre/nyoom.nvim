@@ -36,3 +36,6 @@
 ;; buf-map! bufer-local mappings
 ;; let! set a vim global
 ;; echo!/warn!/err! emit vim notifications
+
+(set! guifont "FiraCode Nerd Font:h11")
+(let! neovide_transparency 0.95)
